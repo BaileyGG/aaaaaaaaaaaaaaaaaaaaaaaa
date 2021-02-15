@@ -1,0 +1,9 @@
+javalesson/part1/model/WorldOwner.java
+ javalesson.part1.model.WorldOwner
+javalesson/part1/model/Human.java
+ javalesson.part1.model.Human
+javalesson/part1/model/World.java
+ javalesson.part1.model.World
+javalesson/part1/model/Testing.java
+ javalesson.part1.model.Testing
+ javalesson.part1.model.Testing$Test2
